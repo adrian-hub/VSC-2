@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Post and Get</title>
+</head>
+<body>
+    <form method="get">
+        <input type="submit">
+    </form>
+    <form action="home.html" method="post">
+    User name: <input type="text"><br>
+    Password:<input type="password"><br>
+    Cat <input type="checkbox"><br>
+    Dog <input type="checkbox"><br>
+    Elephant <input type="checkbox"><br>
+    <input type="submit">
+    </form>
+</body> 
+</html>
