@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head></head>
+<body>
+<script>
+    var first_num = Number(prompt("Enter first number "));
+    var second_num = Number(prompt("Enter second number "));
+    var operator = prompt("Please, insert an operator ")
+    
+    
+    if(operator = "-"){alert(first_num - second_num);}
+    else if(operator = "*"){alert(first_num * second_num);}
+    else if(operator = "/"){alert(first_num / second_num);}
+</script>
+</body>
+</html>
